@@ -70,5 +70,77 @@
             "photo": "",
             "balance": 707
         }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "oil",
+            "price": 9001,
+            "photo": "",
+            "desc": "collected from the local grounds"
+        },
+        {
+            "id": 2,
+            "name": "milk",
+            "price": 2,
+            "photo": "",
+            "desc": "from good cows"
+        },
+        {
+            "id": 3,
+            "name": "eggs",
+            "price": 1000000000000000000000000000000000000000000000000000000000,
+            "photo": "",
+            "desc": "expensive i know"
+        },
+        {
+            "id": 4,
+            "name": "grass seeds",
+            "price": 2,
+            "photo": "",
+            "desc": "perfect if you dont want to buy an artificial lawn"
+        },
+        {
+            "id": 5,
+            "name": "blue oranges",
+            "price": 1,
+            "photo": "",
+            "desc": "special breed"
+        },
+        {
+            "id": 6,
+            "name": "cola",
+            "price": 2,
+            "photo": "",
+            "desc": "coca cola. no thats literally it."
+        },
+        {
+            "id": 7,
+            "name": "holy mackerel",
+            "price": 32767,
+            "photo": "",
+            "desc": "Truly a divine mackerel. Price is justified."
+        },
+        {
+            "id": 8,
+            "name": "Carbon Monoxide Jar",
+            "price": 0.1,
+            "photo": "",
+            "desc": "Why would you ever buy it"
+        },
+        {
+            "id": 9,
+            "name": "Orb.",
+            "price": 99999,
+            "photo": "",
+            "desc": "Orb."
+        },
+        {
+            "id": 10,
+            "name": "Beat the game",
+            "price": -1,
+            "photo": "",
+            "desc": "Unbuyable"
+        }
     ]
 }
