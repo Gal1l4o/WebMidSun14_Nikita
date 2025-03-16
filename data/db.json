@@ -23,15 +23,15 @@
         },
         {
             "id":4,
-            "name": "Fish",
-            "surname": "Arsonov",
+            "name": "Mario",
+            "surname": "Blue",
             "photo": "",
             "balance": 1337
         },
         {
             "id":5,
             "name": "Bug",
-            "surname": "StealBycicleFromOrphanov",
+            "surname": "IForgorov",
             "photo": "",
             "balance": 9001
         },
