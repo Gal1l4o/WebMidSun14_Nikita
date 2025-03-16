@@ -1,0 +1,74 @@
+{
+    "users": [
+        {
+            "id":1,
+            "name": "Grigoriy",
+            "surname": "Houseexplodov",
+            "photo": "",
+            "balance": 1500
+        },
+        {
+            "id":2,
+            "name": "Steven",
+            "surname": "Lobotomotov",
+            "photo": "",
+            "balance": 4200
+        },
+        {
+            "id":3,
+            "name": "Greg",
+            "surname": "Gregov",
+            "photo": "",
+            "balance": 69
+        },
+        {
+            "id":4,
+            "name": "Fish",
+            "surname": "Arsonov",
+            "photo": "",
+            "balance": 1337
+        },
+        {
+            "id":5,
+            "name": "Bug",
+            "surname": "StealBycicleFromOrphanov",
+            "photo": "",
+            "balance": 9001
+        },
+        {
+            "id":6,
+            "name": "Ph8",
+            "surname": "Ph8",
+            "photo": "",
+            "balance": 123
+        },
+        {
+            "id":7,
+            "name": "Homeless",
+            "surname": "Manov",
+            "photo": "",
+            "balance": -1
+        },
+        {
+            "id":8,
+            "name": "Florida",
+            "surname": "Man",
+            "photo": "",
+            "balance": 411
+        },
+        {
+            "id":9,
+            "name": "Alexander",
+            "surname": "Daun",
+            "photo": "",
+            "balance": 2022
+        },
+        {
+            "id":10,
+            "name": "IRanOut",
+            "surname": "OfNames",
+            "photo": "",
+            "balance": 707
+        }
+    ]
+}
