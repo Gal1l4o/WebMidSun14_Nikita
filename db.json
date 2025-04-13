@@ -76,7 +76,7 @@
             "id": 1,
             "name": "oil",
             "price": 9001,
-            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/1.png",
+            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/1.png?raw=true",
             "desc": "collected from the local grounds",
             "author_id": 4
         },
@@ -84,7 +84,7 @@
             "id": 2,
             "name": "milk",
             "price": 2,
-            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/2.png",
+            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/2.png?raw=true",
             "desc": "from good cows",
             "author_id": 8
         },
@@ -92,7 +92,7 @@
             "id": 3,
             "name": "eggs",
             "price": 1000000000000000000000000000000000000000000000000000000000,
-            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/3.png",
+            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/3.png?raw=true",
             "desc": "expensive i know",
             "author_id": 2
         },
@@ -100,7 +100,7 @@
             "id": 4,
             "name": "grass seeds",
             "price": 2,
-            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/4.png",
+            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/4.png?raw=true",
             "desc": "perfect if you dont want to buy an artificial lawn",
             "author_id": 9
         },
@@ -108,7 +108,7 @@
             "id": 5,
             "name": "blue oranges",
             "price": 1,
-            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/5.png",
+            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/5.png?raw=true",
             "desc": "special breed",
             "author_id": 10
         },
@@ -116,7 +116,7 @@
             "id": 6,
             "name": "cola",
             "price": 2,
-            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/6.png",
+            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/6.png?raw=true",
             "desc": "coca cola. no thats literally it.",
             "author_id": 1
         },
@@ -124,7 +124,7 @@
             "id": 7,
             "name": "holy mackerel",
             "price": 32767,
-            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/7.png",
+            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/7.png?raw=true",
             "desc": "Truly a divine mackerel. Price is justified.",
             "author_id": 3
         },
@@ -132,7 +132,7 @@
             "id": 8,
             "name": "Carbon Monoxide Jar",
             "price": 0.1,
-            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/8.png",
+            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/8.png?raw=true",
             "desc": "Why would you ever buy it",
             "author_id": 9
         },
@@ -140,7 +140,7 @@
             "id": 9,
             "name": "Orb.",
             "price": 99999,
-            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/9.png",
+            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/9.png?raw=true",
             "desc": "Orb.",
             "author_id": 5
         },
@@ -148,7 +148,7 @@
             "id": 10,
             "name": "Beat the game",
             "price": -1,
-            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/10.png",
+            "photo": "https://github.com/Gal1l4o/WebMidSun14_Nikita/blob/main/previews/10.png?raw=true",
             "desc": "Unbuyable",
             "author_id": 3
         }
